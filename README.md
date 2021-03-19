@@ -15,11 +15,13 @@ This project focuses on building an interactive dashboard to visualize the bacte
 - Software : HTML/CSS, JvavaScript, VS Code, BootStrap, Plotly.
 
 
+the link to the webpage through the following :
+
 [https://benaziziasmae.github.io/Plotly](https://benaziziasmae.github.io/Plotly/)
 
 ## Summary
 
-1- Deliverable 1
+1- Deliverable 1 : creat a horizontal Bar Chart
 
 ![belly_button1](/images/belly_button1.PNG)
 
