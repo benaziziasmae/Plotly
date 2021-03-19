@@ -34,10 +34,19 @@ Here is an overview about the dashboard created with the 3 interactive charts as
 
 4- Deliverable 4: In this deliverable, we will be customizing the dashboard using the bootstrap 
 
+The three changes that have been done:
+
+1- Adding an image to the jumbotron
+
+2- Using a custom font with contrast for the colors.
 
 
+![belly_button4](/images/belly_button4.PNG)
 
 
+3- Making the webpage mobile-responsive.
+
+![belly_button3](/images/belly_button3.PNG)
 
 
 
