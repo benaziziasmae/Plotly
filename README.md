@@ -10,3 +10,24 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 
 [plotly](https://benaziziasmae.github.io/Plotly/)
+
+![belly_button1](/images/belly_button1.PNG)
+
+
+
+![belly_button2](/images/belly_button2.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
