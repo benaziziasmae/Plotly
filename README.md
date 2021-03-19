@@ -28,6 +28,7 @@ the link to the webpage through the following :
 3- Deliverable 3: Create a Gauge Chart 
 
 
+Here is an overview about the dashboard created with the 3 interactive charts as you can choose wherever entry you want and see for yourself the results accordingly.
 
 ![belly_button2](/images/belly_button2.PNG)
 
