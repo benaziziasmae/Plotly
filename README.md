@@ -32,7 +32,9 @@ Here is an overview about the dashboard created with the 3 interactive charts as
 ![belly_button2](/images/belly_button2.PNG)
 
 
-4- Deliverable 4:
+4- Deliverable 4: In this deliverable, we will be customizing the dashboard using the bootstrap 
+
+
 
 
 
