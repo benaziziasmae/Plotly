@@ -21,9 +21,9 @@ the link to the webpage through the following :
 
 ## Summary
 
-1- Deliverable 1 : creat a horizontal Bar Chart
-
-![belly_button1](/images/belly_button1.PNG)
+1- Deliverable 1 : Create a horizontal Bar Chart
+2- Deliverable 2 : Create a Bubble Chart
+3- Deliverable 3: Create a Gauge Chart 
 
 
 
