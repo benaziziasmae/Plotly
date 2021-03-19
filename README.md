@@ -22,7 +22,9 @@ the link to the webpage through the following :
 ## Summary
 
 1- Deliverable 1 : Create a horizontal Bar Chart
+
 2- Deliverable 2 : Create a Bubble Chart
+
 3- Deliverable 3: Create a Gauge Chart 
 
 
