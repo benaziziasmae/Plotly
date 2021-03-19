@@ -12,9 +12,14 @@ This project focuses on building an interactive dashboard to visualize the bacte
 ## Resources
 
 - Data Resources : [belly_button_data](/samples.json)
+- Software : HTML/CSS, JvavaScript, VS Code, BootStrap, Plotly.
 
 
-[plotly](https://benaziziasmae.github.io/Plotly/)
+[https://benaziziasmae.github.io/Plotly](https://benaziziasmae.github.io/Plotly/)
+
+## Summary
+
+1- Deliverable 1
 
 ![belly_button1](/images/belly_button1.PNG)
 
