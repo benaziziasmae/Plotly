@@ -17,13 +17,16 @@ This project focuses on building an interactive dashboard to visualize the bacte
 
 ## Summary
 
-1- Deliverable 1 : Create a horizontal Bar Chart
+The goal of this analysis is to create a dynamic panel that includes demographic information and bacterial data for each volunteer. The analysis includes three charts: 
 
-2- Deliverable 2 : Create a Bubble Chart
+1- Deliverable 1 : a bar chart that illustrates the top 10 bacteria cultures found in the belly button,
 
-3- Deliverable 3: Create a Gauge Chart 
+2- Deliverable 2 : a bubble chart that displays the amount of bacteria cultures per sample
 
+3- Deliverable 3: a gauge chart that indictes the number of times a volunteer washes his or her belly button 
 
+ By choosing a volunteer (UTO ID) in the dropdown menu, users can view the differences across multiple test subjects.
+ 
 Here is an overview about the dashboard created with the 3 interactive charts as you can choose wherever entry you want and see for yourself the results accordingly.
 
 ![belly_button2](/images/belly_button2.PNG)
